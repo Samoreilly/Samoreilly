@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on app called JobTrackr, that helps people track there job applications, scan there tech resumes powered by NLP AI, apply for jobs.<br>Im passionate about running and coding.<br>I want to be a backend developer but I am also currently enjoying frontend.
+Im currently working on app called PathToHire, that helps people track there job applications, scan there tech resumes powered by NLP AI, apply for jobs.<br>Im passionate about running and coding.<br>I want to be a backend developer but I am also currently enjoying frontend.
 
 
 ## 🌐 Socials:

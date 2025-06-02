@@ -1,6 +1,9 @@
 # 💫 About Me:
-Im currently working on app called PathToHire, that helps people track there job applications, scan there tech resumes powered by NLP AI, apply for jobs.<br>Im passionate about running and coding.<br>I want to be a backend developer but I am also currently enjoying frontend.
+I am currently developing PathToHire, an application designed to help users efficiently track their job applications, scan and analyze technical resumes using NLP-powered AI, and simplify the job search process. The app leverages a modern technology stack including Spring Boot for the backend, PostgreSQL and MySQL for databases, Hibernate/JPA for ORM, and React with TypeScript for frontend development. I also integrate AI models such as Stanford CoreNLP and LLaMA to enhance resume analysis and rewriting capabilities.
 
+My passion lies in building scalable and efficient backend systems, and I am continuously improving my skills in RESTful API design, authentication and authorization (using OAuth2 and JWT), and real-time communication with WebSockets. I am committed to writing clean, maintainable code and creating seamless user experiences through thoughtful architecture and integration.
+
+Outside of coding, I am passionate about running, which helps me stay disciplined and focused. My long-term goal is to become a proficient backend developer, contributing to impactful projects and advancing in software engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-o-reilly) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Samdevvv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samore123ash@gmail.com) 

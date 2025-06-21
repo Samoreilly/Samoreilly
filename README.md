@@ -5,6 +5,14 @@ My passion lies in building scalable and efficient backend systems, and I am con
 
 Outside of coding, I am passionate about running, which helps me stay disciplined and focused. My long-term goal is to become a proficient backend developer, contributing to impactful projects and advancing in software engineering.
 
+## Currently Learning
+
+- Advanced Spring Boot concepts and internal architecture
+- Kafka and event-driven microservices
+- Distributed system design and backend scalability
+- DevOps fundamentals
+- System design patterns and best practices
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-o-reilly) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Samdevvv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samore123ash@gmail.com) 
 

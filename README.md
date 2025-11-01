@@ -1,18 +1,4 @@
-# 🧩 About Me:
-
-I’ve been working on fraud detection systems, exploring how rule-based validation, geolocation checks, and machine learning models can work together to identify suspicious transactions. That experience sparked my interest in building reliable, scalable backend systems.
-
-Right now, I’m diving deeper into Java Spring for backend development, experimenting with Rust to understand low-level performance and safety, and exploring the broader world of distributed systems. My focus is on learning how to design systems that are both efficient and resilient.
-
-Outside of coding, I like running it keeps me disciplined and clears my head. My long-term goal is to become a well rounded backend engineer who can contribute to impactful and technically challenging projects.
-
-# Currently Learning
-
-_🔭  I’m interested in ... distributed systems & backend engineering_
-
-_🌱  I’m currently learning ... Rust and Java Spring_
-
-_🤝  I’m looking to collaborate on ... scalable Java projects & system design_
+building devtools for springboot | exploring kafka, system design, and making developer lives easier | currently working on kafka-damero
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-o-reilly)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samore123ash@gmail.com) 

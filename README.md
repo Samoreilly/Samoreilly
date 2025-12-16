@@ -1,5 +1,5 @@
 
-building devtools for springboot | exploring kafka, system design, and making developer lives easier | currently working on kafka-damero
+building devtools for springboot | exploring kafka, system design, and making developer lives easier | currently working on java-damero
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-o-reilly)

@@ -1,4 +1,4 @@
-finding my niche... 
+All sorts of stuff here
 
 If you'd like to contact me:
 
